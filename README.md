@@ -1,15 +1,11 @@
 # 💫 About Me
 
-<sub>
-
-🔭 I'm currently working on **Robust Statistical Learning for High-Dimensional Data**, with a focus on penalized regression, robust estimation, and variable selection.<br><br>
-👯 I'm looking to collaborate on **Statistical Machine Learning, High-Dimensional Statistics, Optimization, and Operations Research**.<br><br>
-🤝 I'm looking for help with **developing efficient optimization algorithms, scalable statistical software (R/Python), and real-world high-dimensional applications**.<br><br>
-🌱 I'm currently learning **AI-assisted scientific research, advanced optimization techniques, Bayesian methods, and explainable machine learning**.<br><br>
-💬 Ask me about **Robust Statistics, Penalized Regression (Lasso, Elastic Net, Adaptive GO), High-Dimensional Data Analysis, R, Python, and Mathematical Optimization**.<br><br>
-⚡ Fun fact: I enjoy bridging rigorous statistical theory with practical optimization problems, from oracle properties of estimators to reverse logistics network design.
-
-</sub>
+<sub>🔭 I'm currently working on **Robust Statistical Learning for High-Dimensional Data**, with a focus on penalized regression, robust estimation, and variable selection.</sub><br><br>
+<sub>👯 I'm looking to collaborate on **Statistical Machine Learning, High-Dimensional Statistics, Optimization, and Operations Research**.</sub><br><br>
+<sub>🤝 I'm looking for help with **developing efficient optimization algorithms, scalable statistical software (R/Python), and real-world high-dimensional applications**.</sub><br><br>
+<sub>🌱 I'm currently learning **AI-assisted scientific research, advanced optimization techniques, Bayesian methods, and explainable machine learning**.</sub><br><br>
+<sub>💬 Ask me about **Robust Statistics, Penalized Regression (Lasso, Elastic Net, Adaptive GO), High-Dimensional Data Analysis, R, Python, and Mathematical Optimization**.</sub><br><br>
+<sub>⚡ Fun fact: I enjoy bridging rigorous statistical theory with practical optimization problems, from oracle properties of estimators to reverse logistics network design.</sub>
 
 ---
 
