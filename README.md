@@ -4,7 +4,7 @@
 <sub>👯 I'm looking to collaborate on **Statistical Machine Learning, High-Dimensional Statistics, Optimization, and Operations Research**.</sub><br><br>
 <sub>🤝 I'm looking for help with **developing efficient optimization algorithms, scalable statistical software (R/Python), and real-world high-dimensional applications**.</sub><br><br>
 <sub>🌱 I'm currently learning **AI-assisted scientific research, advanced optimization techniques, Bayesian methods, and explainable machine learning**.</sub><br><br>
-<sub>💬 Ask me about **Robust Statistics, Penalized Regression (Lasso, Elastic Net, Adaptive GO), High-Dimensional Data Analysis, R, Python, and Mathematical Optimization**.</sub><br><br>
+<sub>💬 Ask me about **Robust Statistics, Penalized Regression, High-Dimensional Data Analysis, R, Python, and Mathematical Optimization**.</sub><br><br>
 <sub>⚡ Fun fact: I enjoy bridging rigorous statistical theory with practical optimization problems, from oracle properties of estimators to reverse logistics network design.</sub>
 
 ---
